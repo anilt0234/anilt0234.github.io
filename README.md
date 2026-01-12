@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Anil Thakur
-
 💻 **Full Stack .NET Developer** | ASP.NET Core | MVC | SQL | HTML | CSS  
 📍 Greater Noida, India  
 🔗 [LinkedIn](https://linkedin.com/in/anil-thakur-5ba56b1b3) | 🌐 [Portfolio](https://bold.pro/my/anil-thakur-250220095823/217r)
