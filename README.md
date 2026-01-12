@@ -1,4 +1,4 @@
-#Anil Thakur
+
 
 💻 **Full Stack .NET Developer** | ASP.NET Core | MVC | SQL | HTML | CSS  
 📍 Greater Noida, India  
