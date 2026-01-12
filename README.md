@@ -10,7 +10,7 @@
 
 Working hard to become a **geek from noob** 🚀  
 I am a dynamic **Full Stack Developer** with hands-on experience in **ASP.NET Core, MVC Architecture, SQL**, and frontend technologies.  
-I have a proven track record at **Schunix AI**, where I worked on annotation tools and backend logic.
+I have a proven track record at **Sunix AI**, where I worked on annotation tools and backend logic.
 
 ---
 
@@ -40,7 +40,7 @@ I have a proven track record at **Schunix AI**, where I worked on annotation too
 
 ## 📌 Experience
 
-### 🏢 Schunix AI  
+### 🏢 Sunix AI  
 **Software Developer**  
 - Developed and customized a **CVAT-based annotation tool**
 - Worked on backend logic using **.NET Core**
@@ -82,13 +82,13 @@ I have a proven track record at **Schunix AI**, where I worked on annotation too
 ITS Engineering College  
 
 🏫 **Schooling**  
-Ascend International School
+Ascent International School
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: *Available on request*
+- 📧 Email: anilt0234@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/anil-thakur-5ba56b1b3
 - 📍 Location: Greater Noida, India
 
